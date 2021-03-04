@@ -1,0 +1,4 @@
+# Mern-demo
+IN DEV-simple billing app using material ui 
+
+RUN npm install to add depandency
